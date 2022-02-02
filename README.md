@@ -28,4 +28,4 @@ extension.<br>
 space, 1 for a wall, C for a collectible, E for map exit and P for the player’s
 starting position.<br>
 
-(https://github.com/ilnrzakirov/so_long/blob/main/img/msg-479332438-104905.jpg)
+![](https://github.com/ilnrzakirov/so_long/blob/main/img/msg-479332438-104905.jpg)
