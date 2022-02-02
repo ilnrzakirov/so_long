@@ -27,3 +27,5 @@ extension.<br>
 <br>◦ The map must be composed of only 5 possible characters: 0 for an empty
 space, 1 for a wall, C for a collectible, E for map exit and P for the player’s
 starting position.<br>
+
+(https://github.com/ilnrzakirov/so_long/blob/main/img/msg-479332438-104905.jpg)
