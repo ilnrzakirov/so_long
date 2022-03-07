@@ -1,5 +1,4 @@
 # so_long
-125 points
 
 <br>The constraints are as follows:</br>
 <br>• You must use the miniLibX. Either the version that is available on the operating<br>
