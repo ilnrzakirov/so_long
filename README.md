@@ -1,5 +1,7 @@
 # so_long
 
+For detailed information, refer to the **[subject of this project](https://github.com/ilnrzakirov/so_long/blob/main/en.subject.pdf)**
+
 <br>The constraints are as follows:</br>
 <br>• You must use the miniLibX. Either the version that is available on the operating<br>
 system, or from its sources. If you choose to work with the sources, you will
